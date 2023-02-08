@@ -6,14 +6,14 @@
 
 ### Первый год, второй семестр
 
-| № | Тема работы | Лабораторная работа |
-|---|-------------|---------------------|
-| 1 | Начало работы с Python | [docx](laboratory_works/year_1/semester_2/laboratory_1.docx) |
-| 2 | Создание web-страницы с текстом | [pdf](laboratory_works/year_1/semester_2/laboratory_2.pdf) |
-| 3 | Создание первой модели данных и ее регистрация в административном приложении Django | [pdf](laboratory_works/year_1/semester_2/laboratory_3.pdf) |
-| 4 | Создание страницы определенной записи | [pdf](laboratory_works/year_1/semester_2/laboratory_4.pdf) |
-| 5 | Создание формы и представления для нового поста | [pdf](laboratory_works/year_1/semester_2/laboratory_5.pdf) |
-| 6 | Создание формы, шаблона и представления для регистрации и авторизации | [pdf](laboratory_works/year_1/semester_2/laboratory_6.pdf) |
+| № | Тема работы | Лабораторная работа | Образец решения |
+|---|-------------|---------------------|-----------------|
+| 1 | Начало работы с Python | [docx](laboratory_works/year_1/semester_2/laboratory_1.docx) | [Решение](https://github.com/PatriotRossii/informatics_laboratories_8) |
+| 2 | Создание web-страницы с текстом | [pdf](laboratory_works/year_1/semester_2/laboratory_2.pdf) | [Решение](https://github.com/PatriotRossii/informatics_laboratories_9) |
+| 3 | Создание первой модели данных и ее регистрация в административном приложении Django | [pdf](laboratory_works/year_1/semester_2/laboratory_3.pdf) | --- |
+| 4 | Создание страницы определенной записи | [pdf](laboratory_works/year_1/semester_2/laboratory_4.pdf) | --- |
+| 5 | Создание формы и представления для нового поста | [pdf](laboratory_works/year_1/semester_2/laboratory_5.pdf) | --- |
+| 6 | Создание формы, шаблона и представления для регистрации и авторизации | [pdf](laboratory_works/year_1/semester_2/laboratory_6.pdf) | --- |
 
 ### Первый год, первый семестр
 
