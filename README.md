@@ -14,6 +14,7 @@
 | 4 | Создание страницы определенной записи | [pdf](laboratory_works/year_1/semester_2/laboratory_4.pdf) | [Решение](https://github.com/PatriotRossii/informatics_laboratories_11) |
 | 5 | Создание формы и представления для нового поста | [pdf](laboratory_works/year_1/semester_2/laboratory_5.pdf) | [Решение](https://github.com/PatriotRossii/informatics_laboratories_12) |
 | 6 | Создание формы, шаблона и представления для регистрации и авторизации | [pdf](laboratory_works/year_1/semester_2/laboratory_6.pdf) | [Решение](https://github.com/PatriotRossii/informatics_laboratories_13) |
+| 7 | Изучение основ JavaScript, создание простейших функций и использование базовых операторов | [pdf](laboratory_works/year_1/semester_2/laboratory_7.pdf) | [Решение](https://github.com/PatriotRossii/informatics_laboratories_14) |
 
 ### Первый год, первый семестр
 
